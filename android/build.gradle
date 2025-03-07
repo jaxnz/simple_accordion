@@ -33,6 +33,7 @@ apply plugin: 'kotlin-android'
 
 android {
     compileSdkVersion 31
+    namespace 'com.parsa.simple_accordion'
 
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
